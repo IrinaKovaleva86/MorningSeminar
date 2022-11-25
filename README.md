@@ -1,3 +1,3 @@
-# My remoye repositiry
+# My remote repositiry
 
 написано в GitHub
